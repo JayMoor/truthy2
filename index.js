@@ -8,8 +8,7 @@ let boolean = false
 if (boolean === true){ 
     console.log (true)
 }
-else { console.log ("The boolean value false is falsy")
-}
+else { console.log ("The boolean value false is falsy")}
 
 let Bull = null
 if (Bull === 10 ){console.log(true)
